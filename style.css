@@ -3,3 +3,10 @@ body {
   height: 100%;
   margin: 0;
 }
+.header{
+  text-align: center;
+}
+.body{align-items: center;text-align: center;}
+.paragraph{text-align: center;padding: 50px;}
+.para{text-align: center;padding: 50px;}
+.puk{background-color: orangered;display: flex;padding: 50px;justify-content: space-evenly;}
